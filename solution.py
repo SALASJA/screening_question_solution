@@ -6,7 +6,7 @@ def main():
     filename = input("enter the filename: ")
     A = getData(filename)
     
-    if filename == None:
+    if A == None:
         print("filename not found or has bad data")
         return
     
