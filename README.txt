@@ -12,7 +12,7 @@ By starting at the the top of the triangle and moving to adjacent numbers on the
 8   5   9   3
 
 
-We can see a traversal is would be (3,7,4,9)
+We can see a traversal would be (3,7,4,9)
 
 where the sum is 23, and this is the traversal with the max sum out of all traversals.
 
